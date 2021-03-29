@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "esp_rmaker_console.h": "c",
+    "esp_rmaker_core.h": "c",
+    "esp_rmaker_standard_params.h": "c",
+    "esp_rmaker_standard_devices.h": "c",
+    "esp_rmaker_standard_types.h": "c",
+    "string.h": "c",
+    "esp_rmaker_schedule.h": "c",
+    "esp_rmaker_ota.h": "c",
+    "iot_button.h": "c",
+    "ws2812_led.h": "c",
+    "app_reset.h": "c"
+  },
+  "idf.espAdfPathWin": "C:\\Users\\Jason\\.espressif\\esp-adf"
+}
